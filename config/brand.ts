@@ -1,10 +1,10 @@
 import type { BrandConfig } from "@/types/brand";
 
 export const BRAND: BrandConfig = {
-  businessName: "Kochuveettil Lakshmi Jewellery",
+  businessName: "Lakshmi Jewellery",
   tagline: "Fine Jewellery in the Heart of Kothamangalam",
   description:
-    "Kochuveettil Lakshmi Jewellery is Kothamangalam's trusted destination for gold, diamond, and silver jewellery. Serving Kothamangalam and the surrounding areas with timeless craftsmanship for every celebration.",
+    "Lakshmi Jewellery is Kothamangalam's trusted destination for gold, diamond, and silver jewellery. Serving Kothamangalam and the surrounding areas with timeless craftsmanship for every celebration.",
 
   logo: "/icons/logo.svg",
   favicon: "/favicon.ico",
@@ -64,11 +64,11 @@ export const BRAND: BrandConfig = {
   facebook: "",
 
   seo: {
-    title: "Kochuveettil Lakshmi Jewellery | Gold & Diamond Jewellery in Kothamangalam",
+    title: "Lakshmi Jewellery | Gold & Diamond Jewellery in Kothamangalam",
     description:
-      "Kochuveettil Lakshmi Jewellery — trusted jewellery store in Kothamangalam, Kerala. Gold, diamonds and silver for every celebration.",
+      "Lakshmi Jewellery — trusted jewellery store in Kothamangalam, Kerala. Gold, diamonds and silver for every celebration.",
     keywords: [
-      "Kochuveettil Lakshmi Jewellery", "jewellery Kothamangalam", "gold jewellery Kothamangalam", "diamond jewellery Kothamangalam", "silver jewellery Kothamangalam", "jewellery store Kothamangalam", "gold Kothamangalam Kerala"
+      "Lakshmi Jewellery", "jewellery Kothamangalam", "gold jewellery Kothamangalam", "diamond jewellery Kothamangalam", "silver jewellery Kothamangalam", "jewellery store Kothamangalam", "gold Kothamangalam Kerala"
     ],
     canonical: "https://kochuveettil-lakshmi-jewellery-p-o-junction.vercel.app",
     ogImage:
@@ -78,5 +78,5 @@ export const BRAND: BrandConfig = {
   faq: [],
 
   whatsappMessage:
-    "Hello Kochuveettil Lakshmi Jewellery, I'd like to know more about your jewellery collections.",
+    "Hello Lakshmi Jewellery, I'd like to know more about your jewellery collections.",
 };
